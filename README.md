@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Firasnaimi1
 - 👀 I’m interested in cyber security !
-- 🌱 I’m currently learning programming , Datastuctures , computer networking ... !
