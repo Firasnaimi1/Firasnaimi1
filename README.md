@@ -16,7 +16,7 @@ Cybersecurity student with a focus on Penetration Testing, APIs Security, and De
 - **Operating Systems**: Linux , Windows Server
 - **Security Tools**: Nmap, Wireshark, Metasploit, Burp Suite ...
 - **Networking & Security**: DNS, DHCP, VLANs, ACLs, firewall configuration (Cisco ASA, PFsense)
-- - **Pentesting**: Enumeration, Exploitation, Privilege escalation
+- **Pentesting**: Enumeration, Exploitation, Privilege escalation
 
 ## Learning Goals
 
