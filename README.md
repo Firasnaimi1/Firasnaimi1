@@ -25,8 +25,8 @@ I document my methodology, bug reports, and machine retirements at:
 
 ### 🕹️ Active Labs & Rankings
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-x0X0x0X0x0Xx-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/x0X0x0X0x0Xx)
-[![HackMyVm](https://img.shields.io/badge/HackMyVm-Firasnaimi1-orange?style=for-the-badge&logo=linux)](https://hackmyvm.eu/profile/?user=firas8)
-[![LeetCode](https://img.shields.io/badge/LeetCode-C++_Logic-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Firasnaimi7/)
+[![HackMyVm](https://img.shields.io/badge/HackMyVm-Firas8-orange?style=for-the-badge&logo=linux)](https://hackmyvm.eu/profile/?user=firas8)
+[![LeetCode](https://img.shields.io/badge/LeetCode-C++-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Firasnaimi7/)
 
 ---
 
