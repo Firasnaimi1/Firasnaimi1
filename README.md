@@ -1,5 +1,9 @@
 # ⚡ Firas Naimi | Web Exploitation & Bug Hunter
 
+<p align="center">
+  <img src="ice-bear.gif" width="600" alt="Ice Bear Hyperfocus">
+</p>
+
 ### 🌐 Research & Write-ups
 I document my methodology, bug reports, and machine retirements at: 
 👉 **[firasec.xyz](https://firasec.xyz)**
