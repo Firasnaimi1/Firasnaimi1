@@ -4,6 +4,10 @@
   <img src="https://raw.githubusercontent.com/Firasnaimi1/Firasnaimi1/main/ice-bear.gif" width="600" alt="Ice Bear Hyperfocus">
 </p>
 
+### 🔭 Status
+* 🎯 **Currently Hunting on:** [Intigriti](https://app.intigriti.com/researcher/profile/0xvoid) 
+* 🚀 **Researching:** Advanced Web Exploitation & C++ Programming
+
 ### 🌐 Research & Write-ups
 I document my methodology, bug reports, and machine retirements at: 
 👉 **[firasec.xyz](https://firasec.xyz)**
@@ -31,6 +35,10 @@ I document my methodology, bug reports, and machine retirements at:
 
 ---
 
-### 🤝 Connect
+### 🤝 Connect & Inquiries
+* 📩 **Security Inquiries:** [firasnaimiwork@gmail.com](mailto:firasnaimiwork@gmail.com)
+* **LinkedIn:** [linkedin.com/in/firasnaimi](https://linkedin.com/in/firasnaimi)
+* **Website:** [firasec.xyz](https://firasec.xyz)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Firas_Naimi-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/firasnaimi)
 [![Website](https://img.shields.io/badge/Website-firasec.xyz-black?style=flat-square&logo=firefox)](https://firasec.xyz)
