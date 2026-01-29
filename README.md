@@ -27,7 +27,7 @@ I document my methodology, bug reports, and machine retirements at:
 ---
 
 ### 📊 Activity Metrics
-![Firas's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Firasnaimi1&theme=tokyonight&hide_border=true&area=true)
+![Firas's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Firasnaimi1&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
 
 ---
 
