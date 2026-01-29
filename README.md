@@ -13,20 +13,20 @@ I document my methodology, bug reports, and machine retirements at:
 * **Code & Logic:** `C++`, `Bash`, `PowerShell`.
 * **Theory:** Cryptography (PKI, Hash Functions, Encryption Algorithms).
 
+---
+
 ### 🕹️ Active Labs & Rankings
-* **TryHackMe:** [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/x0X0x0X0x0Xx.png)](https://tryhackme.com/p/x0X0x0X0x0Xx)
-* **HackMyVm:** [Firasnaimi1](https://hackmyvm.eu/profile/?user=Firasnaimi1)
-* **Logic:** Solving challenges on LeetCode with **C++**.
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-x0X0x0X0x0Xx-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/x0X0x0X0x0Xx)
+[![HackMyVm](https://img.shields.io/badge/HackMyVm-Firasnaimi1-orange?style=for-the-badge&logo=linux)](https://hackmyvm.eu/profile/?user=Firasnaimi1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-C++_Logic-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/Firasnaimi1)
 
 ---
 
-### 📊 Activity Tracker
-![GitHub Streak](https://github-readme-stats.vercel.app/api/streak-stats?user=Firasnaimi1&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Firasnaimi1&layout=compact&theme=tokyonight&hide_border=true)
+### 📈 GitHub Status
+![Firas's Stats](https://github-readme-stats.vercel.app/api?username=Firasnaimi1&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 🤝 Connect
-- **LinkedIn:** [linkedin.com/in/firasnaimi](https://linkedin.com/in/firasnaimi)
-- **Website:** [firasec.xyz](https://firasec.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Firas_Naimi-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/firasnaimi)
+[![Website](https://img.shields.io/badge/Website-firasec.xyz-black?style=flat-square&logo=firefox)](https://firasec.xyz)
