@@ -1,16 +1,32 @@
-## Hi there 👋
+# ⚡ Firas Naimi | Web Exploitation & Bug Hunter
 
-<!--
-**Firasnaimi1/Firasnaimi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Research & Write-ups
+I document my methodology, bug reports, and machine retirements at: 
+👉 **[firasec.xyz](https://firasec.xyz)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Offensive & Technical Profile
+* **Bug Hunting:** Web App Security, Vulnerability Research, OSINT & Recon.
+* **Systems:** Active Directory, Linux/Unix, Windows Server, Virtualization.
+* **Networking:** Firewalls/VPNs, Traffic Analysis, Protocol Security.
+* **Code & Logic:** `C++`, `Bash`, `PowerShell`.
+* **Theory:** Cryptography (PKI, Hash Functions, Encryption Algorithms).
+
+### 🕹️ Active Labs & Rankings
+* **TryHackMe:** [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/x0X0x0X0x0Xx.png)](https://tryhackme.com/p/x0X0x0X0x0Xx)
+* **HackMyVm:** [Firasnaimi1](https://hackmyvm.eu/profile/?user=Firasnaimi1)
+* **Logic:** Solving challenges on LeetCode with **C++**.
+
+---
+
+### 📊 Activity Tracker
+![GitHub Streak](https://github-readme-stats.vercel.app/api/streak-stats?user=Firasnaimi1&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Firasnaimi1&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 🤝 Connect
+- **LinkedIn:** [linkedin.com/in/firasnaimi](https://linkedin.com/in/firasnaimi)
+- **Website:** [firasec.xyz](https://firasec.xyz)
